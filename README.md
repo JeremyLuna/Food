@@ -7,7 +7,7 @@
 - corn
 
 ### Menudo
-- [heb](https://www.heb.com/product-detail/h-e-b-fully-cooked-menudo/447917)
+- premade menudo
 - limes
 
 ### Simply asian
@@ -20,19 +20,17 @@
 - bowl
 - cup
 - yakisoba boxes
-- [heb](https://www.heb.com/product-detail/nissin-noodle-curry-cup/2224341)
+- nissan instant curry in a cup
 
 ### BBQ sammy
 - Shredded Beef in bbq sauce
-- [heb](https://www.heb.com/product-detail/h-e-b-fully-cooked-smoked-seasoned-shredded-beef-with-bbq-sauce/312926)
-- Thicc crunchy pickles slices
+- Thick crunchy pickles slices
 
 ### Tacos al Pastor
 - flour tortilla
 - pork al pastor
-- [heb](https://www.heb.com/product-detail/h-e-b-select-ingredients-fully-cooked-pork-al-pastor/1612535)
 
-### The Ideal Deli Sammy
+### The Ideal On-Hand Sammy
 - croissant
 - Mayo/Miracle whip
 - Mustard/Dijon
@@ -57,7 +55,7 @@
 - chili mac
 - spicey chicken quesadilla
 - lobster bisque
-- [heb](https://www.heb.com/product-detail/h-e-b-meal-simple-maine-lobster-bisque-soup/3038198)
+- heb pre-made lobster bisque
 - lentil
 - miso
 
@@ -93,7 +91,6 @@
 - Pineapple, fresh
 - mango-habanero sauce(dilute?) / soy sauce / sriracha sauce / Stir in the fish sauce, soybean sauce, sugar and curry powder
 - Instant fried rice with veggies(peas, carrots, corn, eggs)
-- [heb](https://www.heb.com/product-detail/h-e-b-steamable-fried-rice/1486002)
 - peanuts/cashews
 
 ### Steak
@@ -146,8 +143,8 @@
 - BUTTER
 - Tajin seasoning (chile peppers, lime, and salt)
 - Black Pepper
-- Cotija cheese
-- Sour cream
+- Parmesan (Cotija cheese) substitute
+- Sour cream (Mexican Cream Substitute)
 
 ### Corn (Cream, Elijah)
 
