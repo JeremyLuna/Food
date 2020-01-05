@@ -1,45 +1,45 @@
 # Fast
-## Chili
+### Chili
 - Stagg Chili (Dynamite Hot)
 - shredded cheddar
 - sour cream
 - ritz crackers/Fritos
 - corn
 
-## Menudo
+### Menudo
 - https://www.heb.com/product-detail/h-e-b-fully-cooked-menudo/447917
 - limes
 
-## Simply asian
+### Simply asian
 - Roasted peanut
 - Shitake mushroom
 - Classic curry
 
-## ramen
+### ramen
 - maruchan gold
 - bowl
 - cup
 - yakisoba boxes
 - https://www.heb.com/product-detail/nissin-noodle-curry-cup/2224341
 
-## BBQ sammy
+### BBQ sammy
 - Shredded Beef in bbq sauce
 - - https://www.heb.com/product-detail/h-e-b-fully-cooked-smoked-seasoned-shredded-beef-with-bbq-sauce/312926
 - Thicc crunchy pickles slices
 
-## Tacos al Pastor
+### Tacos al Pastor
 - flour tortilla
 - pork al pastor
 - - https://www.heb.com/product-detail/h-e-b-select-ingredients-fully-cooked-pork-al-pastor/1612535
 
-## The Ideal Deli Sammy
+### The Ideal Deli Sammy
 - croissant
 - Mayo/Miracle whip
 - Mustard/Dijon
 - Sharp Cheddar
 - Look up cheeses and deli meats
 
-## Canned Soup
+### Canned Soup
 - chicken & dumpling
 - gumbo
 - jumbalaya
@@ -61,12 +61,12 @@
 - lentil
 - miso
 
-## Microwavable fried chicken
+### Microwavable fried chicken
 - anytizers/popcorn chicken
 - ranch/sweet baby rays
 
 # Not so fast
-## BOB
+### BOB
 - Flakey Buttery Biscuit/flour biscuit (add butter)/croissant (add butter)
 - over hard egg
 - bacon/ham
@@ -74,9 +74,9 @@
 - american cheeese
 - hash brown patty
 
-## Chili mac
+### Chili mac
 
-## Thai Curry
+### Thai Curry
 - sauce
 - - https://www.heb.com/product-detail/mae-ploy-red-curry-paste/140067
 - - https://www.heb.com/product-detail/h-e-b-meal-simple-red-thai-curry-soup/3120058
@@ -87,7 +87,7 @@
 - peanut/cashews
 - Mixed veggies
 
-## Fried rice
+### Fried rice
 - steak(asada)/chicken/pork al pastor/crab meat/fish/shrimp
 - Avacado
 - Pineapple, fresh
@@ -96,22 +96,22 @@
 - https://www.heb.com/product-detail/h-e-b-steamable-fried-rice/1486002
 - peanuts/cashews
 
-## Steak
+### Steak
 - Look that up
 - sous vide or pressure cooked or long time in crock pot for tenderness
 - Thick & Hearty A1
 
-## BBQ tacos
+### BBQ tacos
 - guac
 - chicken/beef fajita
 - mexican blend shredded cheese
 
-## Toast with butter and cinnamon sugar
+### Toast with butter and cinnamon sugar
 
-## Steak/Fajita and Cheese Quesadillas, pitta bread? Bready tortilla
+### Steak/Fajita and Cheese Quesadillas, pitta bread? Bready tortilla
 - Sour cream
 
-## Grilled Cheese/Melt
+### Grilled Cheese/Melt
 - brioche/Sourdough/whatever bread
 - emmental swiss/Parmesan/comte/cheddar cheese
 - ham/prosciutto cotto
@@ -121,25 +121,25 @@
 - mushrooms
 - bacon
 
-## Tomato Basil Soup
+### Tomato Basil Soup
 
-## Migas
+### Migas
 
-## Chicken Tortilla Soup
+### Chicken Tortilla Soup
 - Avacado
 - Tons of Cheese
 - Corn Tortilla
 
-## Corn (Victoria)
+### Corn (Victoria)
 
-## Corn-in-a-Cup (Not necessarily)
+### Corn-in-a-Cup (Not necessarily)
 - BUTTER
 - Tajin seasoning (chile peppers, lime, and salt)
 - Black Pepper
 
-## Corn (Cream, Elijah)
+### Corn (Cream, Elijah)
 
-## Pasta tomato
+### Pasta tomato
 - Fusilli/Penne Pasta
 - sauce garlic herb, tomato basil, chunky
 - garlic
@@ -147,21 +147,21 @@
 - italian herbs and spices
 - black pepper
 
-## Pasta Pesto
+### Pasta Pesto
 
-## Pasta Alfredo
+### Pasta Alfredo
 - Ragu Alfredo Sauce
 - - https://www.heb.com/product-detail/ragu-cheese-creations-classic-alfredo-sauce/116026
 
-## Val’s Chili
+### Val’s Chili
 
-## Elijah’s queso
+### Elijah’s queso
 - Whataburger sausage
 
-## Burger
+### Burger
 - Look up levels of burger (youtube)
 
-## Salad
+### Salad
 - Lettuce
 - spinach
 - smoked ham (thin sliced or cut small cubies)/shredded chicken
@@ -171,28 +171,28 @@
 - hard boiled egg
 - ranch/zesty italian dressing
 
-## Moms Enchiladas
+### Moms Enchiladas
 
-## Mom’s Stuffing
+### Mom’s Stuffing
 
-## Mom’s Chicken Chili
+### Mom’s Chicken Chili
 
-## Mom’s Cabbage-Sausage Stir-Fry
+### Mom’s Cabbage-Sausage Stir-Fry
 
-## Nana’s Meatloaf
+### Nana’s Meatloaf
 
-## Nana’s Fried Chicken
+### Nana’s Fried Chicken
 
-## Dad’s Bunuelos
+### Dad’s Bunuelos
 
-## Dad’s Caldo
+### Dad’s Caldo
 
-## Dad's mango habanero fish tacos
+### Dad's mango habanero fish tacos
 
-## Uncle Hector’s Chili
+### Uncle Hector’s Chili
 
-## Grandma’s Pot Roast
+### Grandma’s Pot Roast
 
-## Uncle Freddie’s recipies?
+### Uncle Freddie’s recipies?
 
-## French dip Rost Beef sammy au jus
+### French dip Rost Beef sammy au jus
