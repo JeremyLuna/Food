@@ -7,7 +7,7 @@
 - corn
 
 ### Menudo
-[heb](https://www.heb.com/product-detail/h-e-b-fully-cooked-menudo/447917)
+- [heb](https://www.heb.com/product-detail/h-e-b-fully-cooked-menudo/447917)
 - limes
 
 ### Simply asian
@@ -20,17 +20,17 @@
 - bowl
 - cup
 - yakisoba boxes
-[heb](https://www.heb.com/product-detail/nissin-noodle-curry-cup/2224341)
+- [heb](https://www.heb.com/product-detail/nissin-noodle-curry-cup/2224341)
 
 ### BBQ sammy
 - Shredded Beef in bbq sauce
-[heb](https://www.heb.com/product-detail/h-e-b-fully-cooked-smoked-seasoned-shredded-beef-with-bbq-sauce/312926)
+- [heb](https://www.heb.com/product-detail/h-e-b-fully-cooked-smoked-seasoned-shredded-beef-with-bbq-sauce/312926)
 - Thicc crunchy pickles slices
 
 ### Tacos al Pastor
 - flour tortilla
 - pork al pastor
-[heb](https://www.heb.com/product-detail/h-e-b-select-ingredients-fully-cooked-pork-al-pastor/1612535)
+- [heb](https://www.heb.com/product-detail/h-e-b-select-ingredients-fully-cooked-pork-al-pastor/1612535)
 
 ### The Ideal Deli Sammy
 - croissant
@@ -57,7 +57,7 @@
 - chili mac
 - spicey chicken quesadilla
 - lobster bisque
-[heb](https://www.heb.com/product-detail/h-e-b-meal-simple-maine-lobster-bisque-soup/3038198)
+- [heb](https://www.heb.com/product-detail/h-e-b-meal-simple-maine-lobster-bisque-soup/3038198)
 - lentil
 - miso
 
@@ -78,9 +78,9 @@
 
 ### Thai Curry
 - sauce
-[heb](https://www.heb.com/product-detail/mae-ploy-red-curry-paste/140067)
-[heb](https://www.heb.com/product-detail/h-e-b-meal-simple-red-thai-curry-soup/3120058)
-[heb](https://www.heb.com/product-detail/thai-kitchen-gluten-free-red-curry-paste/272803)
+- [heb](https://www.heb.com/product-detail/mae-ploy-red-curry-paste/140067)
+- [heb](https://www.heb.com/product-detail/h-e-b-meal-simple-red-thai-curry-soup/3120058)
+- [heb](https://www.heb.com/product-detail/thai-kitchen-gluten-free-red-curry-paste/272803)
 - Coconut milk
 - Instant jasmine rice
 - Chicken
@@ -93,7 +93,7 @@
 - Pineapple, fresh
 - mango-habanero sauce(dilute?) / soy sauce / sriracha sauce / Stir in the fish sauce, soybean sauce, sugar and curry powder
 - Instant fried rice with veggies(peas, carrots, corn, eggs)
-[heb](https://www.heb.com/product-detail/h-e-b-steamable-fried-rice/1486002)
+- [heb](https://www.heb.com/product-detail/h-e-b-steamable-fried-rice/1486002)
 - peanuts/cashews
 
 ### Steak
@@ -151,7 +151,7 @@
 
 ### Pasta Alfredo
 - Ragu Alfredo Sauce
-[heb](https://www.heb.com/product-detail/ragu-cheese-creations-classic-alfredo-sauce/116026)
+- [heb](https://www.heb.com/product-detail/ragu-cheese-creations-classic-alfredo-sauce/116026)
 
 ### Val’s Chili
 
