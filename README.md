@@ -5,9 +5,11 @@
 - sour cream
 - ritz crackers/Fritos
 - corn
+
 ## Menudo
 - https://www.heb.com/product-detail/h-e-b-fully-cooked-menudo/447917
 - limes
+
 ## Simply asian
 - Roasted peanut
 - Shitake mushroom
