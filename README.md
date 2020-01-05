@@ -97,8 +97,14 @@
 - peanuts/cashews
 
 ### Steak
-- Look that up
-- sous vide or pressure cooked or long time in crock pot for tenderness
+- bone-in ribeye/serloin, new york strip
+- pat dry
+- rub salt, pepper (or find a rub)
+- wait 30 mins
+- rub veggie oil
+- 450 f, if possible
+- flip every minute, each side 3 times
+- butter, rosemary, thyme and crushed garlic 4 min in
 - Thick & Hearty A1
 
 ### BBQ tacos
@@ -131,15 +137,21 @@
 - Corn Tortilla
 
 ### Corn (Victoria)
+- corn
+- butter
+- salt
 
 ### Corn-in-a-Cup (Not necessarily)
+- corn
 - BUTTER
 - Tajin seasoning (chile peppers, lime, and salt)
 - Black Pepper
+- Cotija cheese
+- Sour cream
 
 ### Corn (Cream, Elijah)
 
-### Pasta tomato
+### Pasta tomato (Victoria)
 - Fusilli/Penne Pasta
 - sauce garlic herb, tomato basil, chunky
 - garlic
